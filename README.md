@@ -83,3 +83,17 @@ Fork this repo, and _make your new repo private_. Write your code in a sub-folde
 Send `stella.tao@apcapitalinvestment.com` the _private_ GitHub link when you're done.
 
 Good luck!
+
+# My Work
+
+My test file is `./test_my/commit_reveal.js`.
+
+At the head of the file, you can see `commitInfos`. You can edit that value to test with other inputs.
+
+## Run test
+
+Make sure that your ganache is running on port `8545` and node modules are installed.
+
+```bash
+npm run test:my
+```

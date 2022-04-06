@@ -84,3 +84,4 @@ contract("CommitReveal", async (accounts) => {
     await blockchainLifecycle.revertAsync();
   });
 });
+
